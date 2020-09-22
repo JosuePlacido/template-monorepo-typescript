@@ -1,0 +1,19 @@
+{
+  "name": "keeper",
+  "version": "0.0.1",
+  "description": "monorepo for Keeper project",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
+    "@keeper/eslint-config": "*",
+    "husky": "^4.3.0"
+  },
+  "author": "Josue Placido <josueplacidodasilveirajunior@hotmail.com>",
+  "license": "MIT"
+}
