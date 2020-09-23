@@ -1,6 +1,6 @@
 # MonoRepo template
 
-ewqewqeqewq
+Monorepo configurado com eslint, import helpers e commit lint com app-expo
 
 ## Estrutura
 
@@ -15,13 +15,10 @@ ewqewqeqewq
 -   eslint + prettier (airbnb)
 -   Husky
 -   typescript
--   surcrase
 -   cross-env
 
 ## Projetos
 
--   React JS
-    -   STyled-components
 -   React Native expo
     -   STyled-components
 -   Axios config
